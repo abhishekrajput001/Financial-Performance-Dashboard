@@ -43,9 +43,9 @@ The Financial Performance Dashboard provides a clear view of a company’s overa
 
 ## Overview:
 
-The HR Analytics Dashboard provides a comprehensive view of an organization’s workforce, focusing on employee attrition, demographics, and satisfaction trends. Developed using Power BI, it transforms raw HR data into interactive visuals that reveal key insights such as total employees, attrition count, attrition rate, active employees, and average age.
-
-The dashboard allows HR professionals to analyze attrition by department, education field, gender, and age group, helping identify critical areas of concern and workforce patterns. By visualizing data through charts, KPIs, and matrices, it enables strategic decision-making to improve employee retention, engagement, and overall HR performance.
+The Financial Performance Dashboard offers a comprehensive and interactive summary of a company’s financial outcomes. It presents key indicators such as total sales of 118.7M, total profit of 18.45M, total units sold of 1.13M, and an overall profit margin of 15.54%. These figures help evaluate the organization’s profitability and sales efficiency.
+The dashboard features multiple visualizations that make data easy to understand at a glance. A line chart shows total sales growth by year, while a monthly profit trend chart highlights seasonal patterns or fluctuations. The bar chart on profit by country reveals top-performing regions, with France, Germany, and Canada leading. Pie charts display sales distribution by product and discount band, helping identify which products or discount levels drive more revenue.
+With interactive filters for country, year, segment, and product, users can customize their view and analyze specific areas of interest. This dashboard helps managers, analysts, and decision-makers monitor business performance, track progress toward goals, and make strategic data-driven decisions efficiently.
 
 ## NOTE: 
 
