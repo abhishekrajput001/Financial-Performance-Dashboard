@@ -39,7 +39,7 @@ The Financial Performance Dashboard provides a clear view of a company’s overa
    - Find & Replace.
 
 ## Dashboard:
-![HR Dashboard ]https://github.com/abhishekrajput001/Financial-Performance-Dashboard/blob/fbe118c8ee789d5540474cae798eb9b355df3944/Financial%20Performance%20Dashboard.png
+![HR Dashboard ](https://github.com/abhishekrajput001/Financial-Performance-Dashboard/blob/fbe118c8ee789d5540474cae798eb9b355df3944/Financial%20Performance%20Dashboard.png)
 ## Overview:
 
 The Financial Performance Dashboard offers a comprehensive and interactive summary of a company’s financial outcomes. It presents key indicators such as total sales of 118.7M, total profit of 18.45M, total units sold of 1.13M, and an overall profit margin of 15.54%. These figures help evaluate the organization’s profitability and sales efficiency.
